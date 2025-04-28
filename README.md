@@ -1,11 +1,45 @@
 # BASIC HTML FORMATTING
-Repository ini berisi file html dengan file-file lainnya, seperti package.json, package-lock.json, dan .gitignore dengan menggunakan Node.js.
+This project is focused on practicing basic HTML text formatting.
+The text used in this project is an excerpt from the novel Moby-Dick by Herman Melville, with hyperlinks added to direct users to explanations or references for certain words or phrases.
 
-## Langkah-langkah ketika project ini dimulai
-1. Inisialisasi project Node.js dengan ```npm init -y```
-2. Install live-server untuk menjalankan html di browser dengan ```npm install live-server --save-dev```
-3. Simpan script untuk menjalankan live-server di package.json dengan ```"dev": "live-server"```
-4. Isi file HTML dengan struktur dasar mulai dari ```<!DOCTYPE html> <html> <head> <body> ```dan tag penutupnya.
-5. Masukkan teks paragraf atau kalimat yang ingin diformat. Di project ini, teks yang dimasukkan adalah novel Moby-Dick, karya Herman Melville
-6. Format teks menggunakan ```<h1>, <p>, <u>, <i>, <mark>, <font size=""><b>```, dan lainnya
-7. Jalankan ```npm run dev``` untuk melihat langsung hasilnya di browser.
+## Preview
+![Preview](/image.png)
+
+## Getting Started
+1. Clone this project:
+```
+git clone repo-url
+```
+
+2. Install the depedencies:
+```
+npm install
+```
+
+3. Run the project:
+```
+npm run dev
+```
+
+4. The project will be runnning at:
+``` 
+http://localhost:8080
+```
+
+## Depedencies
+
+This project uses Node.js. Make sure you have Node.js installed on your machine.
+
+- live-server: to simulate an HTTP server in a local environment.
+
+## How to contribute
+
+Please open a Pull Request (PR) to contribute to this project.
+Your PR will be reviewed and merged if necessary.
+
+## License
+
+This project following MIT License.
+
+## Copyright
+&copy; 2025 Kodacademy
