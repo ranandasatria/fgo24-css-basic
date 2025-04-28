@@ -39,4 +39,11 @@ content = "width=device-width, initial-scale=1.0"
 ```
 <a href="nama-file.html">Text Hyperlink</a>
 <a href="nama-file.html" target ="_blank">Ketika di-klik membuka tab browser baru</a>
+```
+
+## Tags Syntax
+1. Paired: biasanya digunakan untuk memuat konten di antara bukaan dan tutupan
+    contoh: <b>...</b>
+2. Self-close/Void: biasanya berdiri sendiri karena tidak memerlukan konten tambahan lain
+    contoh: <br>
 
