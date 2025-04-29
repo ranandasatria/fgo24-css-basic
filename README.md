@@ -1,4 +1,4 @@
-# BASIC HTML FORMATTING
+# BASIC CSS FORMATTING
 This project focuses on practicing basic CSS text formatting using inline styles. The text used in this project is an excerpt from the novel Moby-Dick by Herman Melville, with hyperlinks added to direct users to explanations or references for certain words or phrases. Basic CSS properties are applied directly to elements to enhance text styling, such as text alignment, font weight, text decoration, color, background color, and font size.
 
 ## Preview
